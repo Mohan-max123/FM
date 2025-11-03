@@ -32,8 +32,7 @@ Algorithm
 •	Fc: Carrier frequency.
 •	Fm: Frequency of the modulating signal.
 •	Beta: Modulation index, which controls the extent of frequency deviation.
-2.	Generate Signals:
-•	Modulating signal: Sinusoidal signal used for modulation.
+2.	Generate Signals:.
 •	Carrier signal: The high-frequency carrier signal.
 •	Modulated signal: FM modulated signal calculated by varying the carrier frequency according to the modulating signal.
 3.	FM Modulation:
